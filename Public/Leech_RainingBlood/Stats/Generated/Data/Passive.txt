@@ -1,0 +1,7 @@
+new entry "Regeneration_DD_LEECH_BLOOD"
+type "PassiveData"
+data "DisplayName" "DD_LEECH_BLOOD_DisplayName"
+data "Description" "DD_LEECH_BLOOD_Description"
+data "DescriptionParams" "RegainHitPoints(1)"
+data "Properties" "IsToggled;ToggledDefaultOn;IsHidden;Highlighted"
+data "ToggleOnFunctors" "ApplyStatus(SELF,DD_LEECH_BLOOD_REGENERATION,100,-1)"

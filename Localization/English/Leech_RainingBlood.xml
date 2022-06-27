@@ -1,0 +1,6 @@
+<contentList date="26/10/2020 01:10">
+  <content contentuid="h573cccb1g8d1fg4c13gb4d0g7b7761aabbf6" version="1">Create blood surfaces. Set &lt;LSTag Type="Status" Tooltip="BLEEDING"&gt;Bleeding&lt;/LSTag&gt; on enemies for 1 turn. Douse fire surfaces.</content>
+  <content contentuid="h573cccb1g8d1fg4c13gb4d0g7b7761aabbf7" version="1">Raining Blood</content>
+  <content contentuid="h573cccb1g8d1fg4c13gb4d0g7b7761aabbf8" version="1">Heal [1], at the start of your turn, when standing in blood.</content>
+  <content contentuid="h573cccb1g8d1fg4c13gb4d0g7b7761aabbf9" version="1">Leech</content>
+</contentList>
